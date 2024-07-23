@@ -8,6 +8,9 @@ to accurately identify butterfly species from a dataset of labeled images.
 * The dataset used in this project consists of 5000 labeled images of 75 different butterfly species. 
 * The label of each image are saved in Training_set.csv.
 * The Testing_set.csv contains names of image in test folder.
+  
+Image demo:
+![image](https://github.com/user-attachments/assets/9bcdcf38-c63e-4b22-8dbf-e72eb8c7a5d7)
 
 ## Hyperparameters
 * Batch size: 32
